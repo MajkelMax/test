@@ -6,3 +6,5 @@ for n in range(number):
 
 for n in range(number):
     print(n)
+
+# nowe funkcjonalności cz.2 
